@@ -30,6 +30,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Справочник_branch1</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <informationRegisters>InformationRegister.РегистрСведений1</informationRegisters>
 </mdclass:Configuration>
